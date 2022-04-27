@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "title": "Blanco",
+      "type": "tequila",
+      "price": 69,
+      "description": "TASTE\n\nSweet agave and vanilla, with undertones of tropical and citrus fruit\n\nAROMA\n\nLemongrass, mild floral elements, chamomile and light minerality\n\nBODY & COLOR\n\nBrilliant platinum, light body\n\nFINISH\n\nUltra smooth with a bright and crispy finish, notes of almond, key lime pie, and toasted coconut\n\nWHAT MAKES IT SPECIAL\n\nRested in oak barrels for a fresh vanilla roundness",
+      "img": "https://drink818.com/static/dea165b007764f9115a14409bbb58fc5/0ff54/blanco-hero.jpg",
+      "id": 1,
+      "like": [
+        "admin@mail.com"
+      ]
+    },
+    {
+      "title": "Reposado",
+      "type": "tequila",
+      "price": 59,
+      "description": "TASTE\n\nRipe roasted agave flavor with notes of caramel and vanilla\n\nAROMA\n\nVanilla, meringue, honey, and fruit accents\n\nBODY & COLOR\n\nStraw color with golden hues and medium body\n\nFINISH\n\nSmooth caramel finish with notes of sweet cooked agave and pecan pie\n\nWHAT MAKES IT SPECIAL\n\nRested in oak barrels, Blended with Extra Añejo",
+      "img": "https://drink818.com/static/46959a01cba3633cab5449ecbabcf307/0ff54/reposado-hero.jpg",
+      "id": 2,
+      "like": []
+    },
+    {
+      "title": "Anejo",
+      "type": "tequila",
+      "price": 79,
+      "description": "TASTE\n\nVanilla, sweet agave, and crisp herbal notes\n\nAROMA\n\nCaramel, toasted nuts, orange peel, chocolate and toffee\n\nBODY & COLOR\n\nLight amber with shiny golden reflections and bronze hues with full body\n\nFINISH\n\nVery long silk, rich and full bodied\n\nWHAT MAKES IT SPECIAL\n\nBlended with Extra Añejo, Aged for over 1 year in oak barrels",
+      "img": "https://drink818.com/static/63d4d354a0cec165411e15f2b650d114/0ff54/anejo-hero.jpg",
+      "id": 3,
+      "like": []
+    },
+    {
+      "title": "818 Nectar Dad Hat",
+      "type": "merch",
+      "price": 30,
+      "description": "Due to high demand, please allow 10 business days to receive your shipping notice and tracking number.\n\nLonger days and warmer weather are ahead. It’s time to throw on your 818 Dad Hat, this time in our favorite seasonal color.",
+      "img": "https://cdn.shopify.com/s/files/1/0608/5528/7967/products/NectarDadHat3.png?v=1649172175",
+      "id": 4,
+      "like": [
+        "admin@mail.ru"
+      ]
+    },
+    {
+      "title": "818 Piña Dad Hat",
+      "type": "merch",
+      "price": 29,
+      "description": "Due to high demand, please allow 10 business days to receive your shipping notice and tracking number.\n\nYou asked. We answered. We've brought back a limited number of the 818 Dad Hat in our classic Piña green.",
+      "img": "https://cdn.shopify.com/s/files/1/0608/5528/7967/products/GreenDadHat1_20f242ca-5015-47aa-b704-83f53a8adf4c.png?v=1649197303&width=713",
+      "id": 5,
+      "like": []
+    },
+    {
+      "title": "818 Nalgene Bottle",
+      "type": "merch",
+      "price": 40,
+      "description": "32 oz. Clear Tritan Nalgene with Lime top. Expertly crafted threads for leak‑proof hydration and a wide mouth that’s perfect for ice cubes or fruit infusions. Proven in the elements and ready to withstand even the most rugged conditions. A pioneer, for pioneers...for spirited encounters.",
+      "img": "https://cdn.shopify.com/s/files/1/0608/5528/7967/products/Waterbottle.png?v=1649172204&width=713",
+      "like": [],
+      "id": 6
+    },
+    {
+      "title": "818 Festival Cherry LA Baby Tee",
+      "type": "merch",
+      "price": 55,
+      "description": "100% USA Cotton. This is a cut & sewed garment made in South Central Los Angeles. Garment dyed then washed for soft hand-feel.\n\nHand printed with water-based ink on front of white baby tee.\n\nModel is 5'5\" and is wearing a S. Please reference Cherry LA size chart for sizing.",
+      "img": "https://cdn.shopify.com/s/files/1/0608/5528/7967/products/CherryPic2.png?v=1649172291",
+      "id": 7
+    },
+    {
+      "title": "818 Festival Bandana",
+      "type": "merch",
+      "price": 15,
+      "description": "Our Dark Green 818 Festival Bandana. The accessory of the season.",
+      "img": "https://cdn.shopify.com/s/files/1/0608/5528/7967/products/Bandanacopy.jpg?v=1649086413&width=713",
+      "like": [],
+      "id": 8
+    },
+    {
+      "title": "818 Phone Charms",
+      "type": "merch",
+      "price": 12,
+      "description": "Our limited edition 818 Phone Charm Set. Meet your new best friends.",
+      "img": "https://cdn.shopify.com/s/files/1/0608/5528/7967/products/LogoPhoneCharm.png?v=1649169013&width=713",
+      "like": [],
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "author": "admin@mail.com",
+      "title": "sfhsjf",
+      "prodId": 3,
+      "id": 1
+    },
+    {
+      "author": "admin@mail.com",
+      "title": "dfgfghjhkjl;';\ndsfghjkl;'",
+      "prodId": 1,
+      "id": 2
+    },
+    {
+      "author": "admin@mail.ru",
+      "title": "cool cap",
+      "prodId": 4,
+      "id": 3
+    }
+  ]
+}

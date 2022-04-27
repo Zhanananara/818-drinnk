@@ -1,0 +1,11 @@
+.image img {
+  transition: 3s !important;
+}
+
+.image:hover {
+  transform: scale(1.1);
+}
+
+.card-header {
+  font-family: "Modern Antiqua" !important;
+}

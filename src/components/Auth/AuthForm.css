@@ -1,0 +1,20 @@
+.-internal-autofill-selected {
+  appearance: menulist-button;
+  background-image: none !important;
+  background-color: -internal-light-dark(
+    rgb(255, 255, 255),
+    rgba(70, 90, 126, 0.4)
+  ) !important;
+  color: -internal-light-dark(black, white) !important;
+}
+
+.text {
+  color: #f0e7d1 !important;
+  text-transform: uppercase;
+  font-weight: bolder;
+  font-size: 4rem;
+}
+
+.text2 {
+  color: #f0e7d1 !important;
+}
