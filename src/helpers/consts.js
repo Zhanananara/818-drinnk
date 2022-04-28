@@ -1,5 +1,5 @@
-export const API1 = "http://localhost:8000/products";
-export const API2 = "http://localhost:8000/comments";
+export const API1 = "https://drink-818.herokuapp.com/products";
+export const API2 = "https://drink-818.herokuapp.com/comments";
 // export const API = "https://deploy-heroku-js-18-zhanara.herokuapp.com/products";
 // export const API2 = "https://drink-31866-default-rtdb.firebaseio.com/";
 export const ACTIONS = {

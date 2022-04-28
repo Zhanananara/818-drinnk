@@ -18,7 +18,10 @@
       "description": "TASTE\n\nRipe roasted agave flavor with notes of caramel and vanilla\n\nAROMA\n\nVanilla, meringue, honey, and fruit accents\n\nBODY & COLOR\n\nStraw color with golden hues and medium body\n\nFINISH\n\nSmooth caramel finish with notes of sweet cooked agave and pecan pie\n\nWHAT MAKES IT SPECIAL\n\nRested in oak barrels, Blended with Extra Añejo",
       "img": "https://drink818.com/static/46959a01cba3633cab5449ecbabcf307/0ff54/reposado-hero.jpg",
       "id": 2,
-      "like": []
+      "like": [
+        "admin@mail.ru",
+        "zhannara.nurlanova@gmail.com"
+      ]
     },
     {
       "title": "Anejo",
@@ -103,6 +106,18 @@
       "title": "cool cap",
       "prodId": 4,
       "id": 3
+    },
+    {
+      "author": "zhannara.nurlanova@gmail.com",
+      "title": "cool",
+      "prodId": 3,
+      "id": 4
+    },
+    {
+      "author": "zhannara.nurlanova@gmail.com",
+      "title": "cool",
+      "prodId": 2,
+      "id": 5
     }
   ]
 }

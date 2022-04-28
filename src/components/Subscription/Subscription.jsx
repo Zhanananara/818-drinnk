@@ -50,7 +50,7 @@ const Subscription = () => (
             />
           )}
           {status === "success" && (
-            <div style={{ color: "green" }}>Subscribed !</div>
+            <div style={{ color: "white" }}>Subscribed !</div>
           )}
         </div>
       </div>
